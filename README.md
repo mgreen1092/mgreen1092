@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software engineer with a passion for creating innovative, efficient, and impactful websites and applications. As a Software Engineer Apprentice at General Assembly, I have created a variety of different web applications while using a different programming languages such as JavaScript, HTML, CSS, Node, Express, React, and MongoDB.
+
+Prior to General Assembly, I gained experience as a data analyst which allowed me to obtain a technical background that has aided me in my journey to becoming a software engineer. This path has allowed me to solve complex problems in creative ways, all while continuing to learn and grow. I firmly believe in asking questions and staying curious.
