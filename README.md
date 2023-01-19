@@ -22,9 +22,5 @@ Prior to General Assembly, I gained experience as a data analyst which allowed m
 
 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgreen1092&show_icons=true&theme=radical)
+![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgreen1092&show_icons=true&theme=radical)
 
-
-Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=radical)
