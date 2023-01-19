@@ -20,7 +20,7 @@ I am a software engineer with a passion for creating innovative, efficient, and 
 Prior to General Assembly, I gained experience as a data analyst which allowed me to obtain a technical background that has aided me in my journey to becoming a software engineer. This path has allowed me to solve complex problems in creative ways, all while continuing to learn and grow. I firmly believe in asking questions and staying curious.
 
 
-GitHub Stats
+### GitHub Stats
 
 ![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgreen1092&show_icons=true&theme=radical)
 
